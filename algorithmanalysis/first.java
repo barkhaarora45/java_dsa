@@ -13,6 +13,8 @@ import java.util.concurrent.ThreadLocalRandom;
   3.no need to create object()current()
  method)
  thread safe by design 
+
+ ***==>>>it can be used in the shortest path algorithm for the random number generation in the graph 
  */
 
 public class first {

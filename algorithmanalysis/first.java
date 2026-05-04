@@ -14,7 +14,8 @@ import java.util.concurrent.ThreadLocalRandom;
  method)
  thread safe by design 
 
- ***==>>>it can be used in the shortest path algorithm for the random number generation in the graph 
+ ***==>>>it can be used in the shortest path algorithm for the random number generation in the graph algorithm **
+
  */
 
 public class first {
